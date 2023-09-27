@@ -74,7 +74,6 @@ footer {
   filter: brightness(50%);
   transform: scale(1.1);
 }
-}
 
 /* Hint: Notice the position:absolute and z-index properties. */
 /* Think about how those in relation to the existing "tile" classes. */
